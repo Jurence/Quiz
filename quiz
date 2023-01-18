@@ -3,7 +3,7 @@ import { fetchQuestions, Difficulty, QuestionState } from "./API";
 import QuestionCard from "./components/QuestionCard";
 import { GlobalStyle, Wrapper } from "./App.styles";
 import Loader from "./images/loading.gif";
-ssssss
+ssssssqaaa
 const TOTAL_QUESTIONS = 10;
 
 export type AnswerObject = {
