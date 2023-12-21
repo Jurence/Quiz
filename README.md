@@ -1,2 +1,2 @@
-# Quiz
+# Quizkk
 **Short Quiz App**
