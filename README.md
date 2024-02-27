@@ -1,2 +1,2 @@
-# Quizsssh
+# Quizssshk
 **Short Quiz App**
